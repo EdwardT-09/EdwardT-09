@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Edward</h1>
-<h3 align="center">A software engineering student from Sunway University</h3>
+𝚆𝚎𝚕𝚌𝚘𝚖𝚎 💻
+<h1 align="center">hey there 👋, I'm eddie</h1>
+<h3 align="center">a software engineering student from sunway university</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
