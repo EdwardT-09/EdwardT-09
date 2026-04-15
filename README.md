@@ -1,6 +1,6 @@
-𝚆𝚎𝚕𝚌𝚘𝚖𝚎 💻
-<h1 align="center">hey there 👋, I'm eddie</h1>
-<h3 align="center">a software engineering student from sunway university</h3>
+<h1 align="center">𝚆𝚎𝚕𝚌𝚘𝚖𝚎 💻</h1>
+<p align="center">hey there 👋, I'm eddie</p>
+<p align="center">a software engineering student from sunway university</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
