@@ -1,4 +1,4 @@
-<h1 align="center">𝚆𝚎𝚕𝚌𝚘𝚖𝚎 💻</h1>
+## 𝚆𝚎𝚕𝚌𝚘𝚖𝚎 💻 
 <p align="center">hey there 👋, I'm eddie</p>
 <p align="center">a software engineering student from sunway university</p>
 
